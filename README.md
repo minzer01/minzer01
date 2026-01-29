@@ -1,19 +1,19 @@
 ## My info
-안녕하세요! 🙋‍♂️ zero 안민영입니다! 🥰 
+- minzero
+- Ewha Womans University, Computer Science
 <br />
 <br />
 <br />
 
 ## My Value
-- 🎓 Ewha Womans University, Computer Science
-- 💻 Interested in Frontend & Backend (Full Stack)
-- 🌱 Learning Java, Spring
+- Interested in Backend (Full Stack)
+- Learning Java, Spring
 <br />
 <br />
 <br />
 
-## How i work
-개발에 관심을 갖고 알아가는 중입니다! 다들 개발의 매력에 빠져보아요..~
+## How I work
+MVP
 <br />
 <br />
 <br />
