@@ -1,6 +1,5 @@
 ## My info
 - minzero
-- Ewha Womans University, Computer Science
 <br />
 <br />
 <br />
